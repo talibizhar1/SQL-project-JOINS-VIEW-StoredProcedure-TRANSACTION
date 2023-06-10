@@ -1,6 +1,6 @@
 # SQL-project using JOINS, VIEW, STORED PROCEDURE and TRANSACTION techniques.
 ## Introduction
-This project is the ‘Optional Honors’ part of the course SQL: A Practical Introduction for Querying Databases. I will be answering the questions asked with the help of MySQL.
+This project is the ‘Optional Honors’ part of the course SQL: A Practical Introduction for Querying Databases. I will be answering the questions asked with the help of MySQL. On Medium([link](https://medium.com/@bltizr9/final-project-advanced-sql-techniques-29953f6d1099)) I have provided the screenshots of resluts.
 In this project I will be answering question with advanced SQL techniques like joins, view, stored procedure and transaction statements.
 * First task mentioned here
 ## Task A: Create a database
