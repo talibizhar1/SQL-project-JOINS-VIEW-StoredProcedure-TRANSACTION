@@ -1,5 +1,5 @@
 
-/*Final Prokect*/
+/*MySQL script of Final Project*/
 -- Question 1
 -- Write and execute a SQL query to list the school names, community names and average attendance for communities with a hardship index of 98.
 /*Census data and school data has common column community area number*/
